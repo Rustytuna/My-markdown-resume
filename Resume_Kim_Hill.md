@@ -41,16 +41,16 @@ Professional Experience
 * Manage ongoing big data and business intelligence projects with teams of 3+ people requiring experience with SQL database administration, data visualization, and data ETL pipelines
 * Launched new software product within first month at firm, resulting in an increase in leads
 * Designated lead organizer of Rocky Mountain DataCon, the region's first annual big data conference
->
->
->
+
+
+
 *January 2015-December 2015*    
 **Professional Consultant**; Various Organizations (Denver, CO)
 * Served as a SalesForce Consultant by developing reporting algorithms and streamlined data processing based on business needs for a restaurant supply chain management company with 150 accounts and 600+ leads
 * Conducted legal research and strategic data analysis for law firms on various cases
->
->
->
+
+
+
 *January 2013 - September 2014*   
 **Business Strategy Consultant**; Various (Denver, CO, Chapel Hill & Durham, NC)
 **Sample Projects:**  
@@ -65,9 +65,9 @@ Professional Experience
 
 *Environmental Law and Policy Clinic, Duke University, Durham NC*
 * Provided consultative advice on real estate development including a risk assessment for a new farming venture that took advantage of acquiring low cost/low fertility lands for training future farmers
->
->
->
+
+
+
 *2008 - March 2012*   
 **Lead Middle East and Central Asia Policy Analyst**; Department of the Navy (Washington, DC)
 * Utilized TOP SECRET//SCI clearance to assess oil politics and foreign military strategy in Middle East 
@@ -77,19 +77,18 @@ Professional Experience
 * Edited and contributed to reports made to POTUS, the Joint Chief of Staff, Department of the Navy, and daily widely-disseminated intelligence briefings
 * Served on the Caspian Sea Working Group (2010-12) and the Arabian Peninsula Working Group (2009-12)
 * Recognized for intelligence contributions to the Arab Spring crisis (2011)
->
->
->
+
+
+
 *2003 - 2008*  
 **Co-Founder and Program Director**; Community Outreach and Advocacy for Refugees (Tempe, AZ)
 * Directed community awareness and advocacy programs for an organization focused on aiding refugees
 * Managed 10+ volunteers in the organizing and execution of events attended by up to 300 people
 * Assisted in grant writing and coordinating fundraisers, procuring over $10,000 in funding (2006-2008)
->
->
->
+
+
 Technical Experience
---------------------
+----------
 
 
    **Technical Languages:** Extensive experience using STATA, R, & Excel;
