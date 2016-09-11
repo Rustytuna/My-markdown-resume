@@ -15,32 +15,29 @@ committed to using data analysis to make strategic business decisions.
 Education
 ---------
 
-2015-March 2016\
+2015-March 2016  
    **Data Science and Machine Learning Bootcamp**; BitBootcamp (New York City, NY)
 
-     *Select Topics: UNIX, H20.ai, Python incl. scikit-learn, Data Fusion, Fuzzy Matching, Linear Models, Clustering using K-means, Decision Trees, Random Forests, Gradient Boosting Machines, Naïve Bayes, and Stable Marriage Algorithms
+    * Select Topics: UNIX, H20.ai, Python incl. scikit-learn, Data Fusion, Fuzzy Matching, Linear Models, Clustering using K-means, Decision Trees, Random Forests, Gradient Boosting Machines, Naïve Bayes, and Stable Marriage Algorithms
     
-     *Final Project: CART Analysis of  restaurant inspection grades to determine 
-     failure rates and causes as well as CART Analysis of Lending Club loan data 
-     to determine factors for rejection and acceptance for small business loans
+    * Final Project: CART Analysis of  restaurant inspection grades to determine failure rates and causes as well as CART Analysis of Lending Club loan data to determine factors for rejection and acceptance for small business loans
 
-May 2014\
+May 2014  
    **Master of Environmental Management; Focus:Economics and Environmental Policy**; 
     Duke University (Durham, NC) 
     
-    *Thesis: Identifying barriers to sustainable food production by low resource 
-    producers and purchase by low income consumers in Washington and Beaufort Counties*
+    * Thesis: Identifying barriers to sustainable food production by low resource producers and purchase by low income consumers in Washington and Beaufort Counties*
      
     *Minor: International Development Policy from the Sanford School of Public Policy*
     
-May 2008\
+May 2008  
    **B.S. in Biology, B.A. in Russian** Arizona State University (Tempe, AZ) 
     
 
 Professional Experience
 ----------
 
-April 2016 - Present\
+April 2016 - Present  
 **Project Manager and Strategic Analyst:**; AgilData (Broomfield, CO)
 * Manage ongoing big data and business intelligence projects with teams of 3+ people 
   requiring extensive experience with SQL database administration, data visualization, 
@@ -49,24 +46,25 @@ April 2016 - Present\
 * Designated lead organizer of Rocky Mountain DataCon, the region's first annual big data conference
 
 
-January 2015-Present\
+January 2015-Present  
 **Professional Consultant**; Various Organizations (Denver, CO)
 * Served as a SalesForce Consultant by developing reporting algorithms and streamlined 
   data processing based on business needs for a restaurant supply chain management company with 150 accounts and 600+ leads
 * Conducted legal research and strategic data analysis for law firms on various cases
 
 
-March - July 2015\
+March - July 2015  
 **Senior Executive Assistant**; The Bornhoft Group (Denver, CO)
 * Supported the CEO and COO of a nationally recognized managed futures fund/hedge fund
 * Oversaw various Investor Relations activities including drafting investor correspondence,
   providing tax documentation and overall fund operations which included the closing of one of three funds
 
 
-January 2013 - September 2014\ 
+January 2013 - September 2014   
 **Business Strategy Consultant**; Various (Denver, CO, Chapel Hill & Durham, NC)
 
-Projects:
+**Projects:**
+
 **BBC Research and Consulting, Denver CO**
 * Analyzed market research survey data for a midsize retailer to assess client demographics, purchasing habits and customer service scores to make strategic target market recommendations to store executives 
 * Managed the schedule of Sr. Researchers and the tracking of a budget of $1M for a disparity study for the State of Indiana that analyzed the makeup of contractors providing the state with a variety of services 
@@ -102,20 +100,20 @@ Technical Experience
 --------------------
 
 
-:   **Technical Languages:** Extensive experience using STATA, R, & Excel;
+   **Technical Languages:** Extensive experience using STATA, R, & Excel;
 Intermediate experience using ArcGIS, Python, SQL and UNIX; 
 Limited experience using Hadoop MapReduce, H20.ai machine learning algorithms, MySQL, Scikit-learn, and AWS Redshift and S3
      
 
-:   **Foreign Languages:** English (Native); Proficient in Russian and French; some experience in Farsi
+   **Foreign Languages:** English (Native); Proficient in Russian and French; some experience in Farsi
 
-:   **Currently studying:** Rust for security encryption and Scala
+   **Currently studying:** Rust for security encryption and Scala
 
-:   Basic knowledge of  **Docker containers**, **Heroku**, **JavaScript**, **Perl**
+   Basic knowledge of  Docker containers, Heroku, JavaScript, Perl
 
 [ref]: https://github.com/RustyTuna
 
 ----
 
-> <kimberlyhill84@gmail.com> • (480)323 9807 \
-> 1101 Davidson Drive, Unit H01 - Fort Collins, Colorado 80526, USA
+> <kimberlyhill84@gmail.com> • (480)323 9807
+> Fort Collins, Colorado, USA
