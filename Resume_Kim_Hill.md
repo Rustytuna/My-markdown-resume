@@ -3,6 +3,7 @@ Kimberly M. Hill
 
 ----
 
+![Alt text](/My-markdown-resume/Speaker-KimHill.png "Kim's Headshot")
 Previously TS//SCI cleared analytical professional with diverse 
 experience that spans across policy development, project management,
 team leadership, market research, and data analytics. Seeking a position 
