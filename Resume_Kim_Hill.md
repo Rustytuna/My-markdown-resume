@@ -3,7 +3,6 @@ Kimberly M. Hill
 
 ----
 
-![Alt text](/My-markdown-resume/Speaker-KimHill.png "Kim's Headshot")
 Previously TS//SCI cleared analytical professional with diverse 
 experience that spans across policy development, project management,
 team leadership, market research, and data analytics. Seeking a position 
@@ -28,7 +27,7 @@ May 2014
     Duke University (Durham, NC) 
 * Thesis: Identifying barriers to sustainable food production by low resource producers and purchase by low income consumers in Washington and Beaufort Counties, North Carolina  
 
-*Minor: International Development Policy from the Sanford School of Public Policy*
+* *Minor: International Development Policy from the Sanford School of Public Policy*
     
 May 2008  
    **B.S. in Biology, B.A. in Russian** Arizona State University (Tempe, AZ) 
@@ -53,7 +52,8 @@ Professional Experience
 
 
 *January 2013 - September 2014*   
-**Business Strategy Consultant**; Various (Denver, CO, Chapel Hill & Durham, NC)
+**Business Strategy Consultant**; Various (Denver, CO, Chapel Hill & Durham, NC)  
+
 **Sample Projects:**  
 
 *BBC Research and Consulting, Denver CO*
