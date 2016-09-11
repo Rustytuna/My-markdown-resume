@@ -26,7 +26,8 @@ Education
 May 2014  
    **Master of Environmental Management; Focus:Economics and Environmental Policy**; 
     Duke University (Durham, NC) 
-* Thesis: Identifying barriers to sustainable food production by low resource producers and purchase by low income consumers in Washington and Beaufort Counties, North Carolina
+* Thesis: Identifying barriers to sustainable food production by low resource producers and purchase by low income consumers in Washington and Beaufort Counties, North Carolina  
+
 *Minor: International Development Policy from the Sanford School of Public Policy*
     
 May 2008  
