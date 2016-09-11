@@ -38,27 +38,24 @@ Professional Experience
 ----------
 
 April 2016 - Present    **Project Manager and Strategic Analyst:**; AgilData (Broomfield, CO)
-* Manage ongoing big data and business intelligence projects with teams of 3+ people 
-  requiring extensive experience with SQL database administration, data visualization, 
-  and data ETL pipelines
+* Manage ongoing big data and business intelligence projects with teams of 3+ people requiring experience with SQL database administration, data visualization, and data ETL pipelines
 * Launched new software product within first month at firm, resulting in an increase in leads
 * Designated lead organizer of Rocky Mountain DataCon, the region's first annual big data conference
 
 
 January 2015-Present    **Professional Consultant**; Various Organizations (Denver, CO)
-* Served as a SalesForce Consultant by developing reporting algorithms and streamlined 
-  data processing based on business needs for a restaurant supply chain management company with 150 accounts and 600+ leads
+* Served as a SalesForce Consultant by developing reporting algorithms and streamlined data processing based on business needs for a restaurant supply chain management company with 150 accounts and 600+ leads
 * Conducted legal research and strategic data analysis for law firms on various cases
 
 
 March - July 2015   **Senior Executive Assistant**; The Bornhoft Group (Denver, CO)
 * Supported the CEO and COO of a nationally recognized managed futures fund/hedge fund
-* Oversaw various Investor Relations activities including drafting investor correspondence,
-  providing tax documentation and overall fund operations which included the closing of one of three funds
+* Oversaw various Investor Relations activities including drafting investor correspondence, providing tax documentation and overall fund operations which included the closing of one of three funds
 
 
 January 2013 - September 2014   **Business Strategy Consultant**; Various (Denver, CO, Chapel Hill & Durham, NC)
-**Projects:**
+**Projects:**  
+
 *BBC Research and Consulting, Denver CO*
 * Analyzed market research survey data for a midsize retailer to assess client demographics, purchasing habits and customer service scores to make strategic target market recommendations to store executives 
 * Managed the schedule of Sr. Researchers and the tracking of a budget of $1M for a disparity study for the State of Indiana that analyzed the makeup of contractors providing the state with a variety of services 
@@ -81,7 +78,7 @@ January 2013 - September 2014   **Business Strategy Consultant**; Various (Denve
 * Recognized for intelligence contributions to the Arab Spring crisis (2011)
 
 
-2003 - 2008     **Co-Founder and Program Director**; Community Outreach and Advocacy for Refugees (Tempe, AZ)
+**Co-Founder and Program Director**; Community Outreach and Advocacy for Refugees (Tempe, AZ)  **2003 - 2008**
 * Directed community awareness and advocacy programs for an organization focused on aiding refugees
 * Managed 10+ volunteers in the organizing and execution of events attended by up to 300 people
 * Assisted in grant writing and coordinating fundraisers, procuring over $10,000 in funding (2006-2008)
@@ -107,5 +104,4 @@ Limited experience using Hadoop MapReduce, H20.ai machine learning algorithms, M
 
 ----
 
-> <kimberlyhill84@gmail.com> • (480)323 9807
-> Fort Collins, Colorado, USA
+> <kimberlyhill84@gmail.com> • (480)323 9807 • Fort Collins, Colorado, USA
