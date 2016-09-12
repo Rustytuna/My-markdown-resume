@@ -37,7 +37,7 @@ Professional Experience
 ----------
 
 *April 2016 - Present*    
-**Project Manager and Strategic Analyst:**; AgilData (Broomfield, CO)
+**Project Manager and Strategic Analyst**; AgilData (Broomfield, CO)
 * Manage ongoing big data and business intelligence projects with teams of 3+ people requiring experience with SQL database administration, data visualization, and data ETL pipelines
 * Launched new software product within first month at firm, resulting in an increase in leads
 * Designated lead organizer of Rocky Mountain DataCon, the region's first annual big data conference
