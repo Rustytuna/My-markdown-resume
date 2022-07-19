@@ -106,4 +106,4 @@ Limited experience using Hadoop MapReduce, H20.ai machine learning algorithms, M
 
 ----
 
-> <kimberlyhill84@gmail.com> • (480)323 9807 • Fort Collins, Colorado, USA • https://github.com/RustyTuna
+> <kimberlyhill84@gmail.com> • Colorado, USA • https://github.com/RustyTuna
